@@ -4,4 +4,4 @@
 
 This was a university project I completed in 2010. 
 
-Once I get the chance I'll update the README with a detailed description of the code.
+Soon I will update the README with a detailed description of the code.
